@@ -15,11 +15,5 @@ public class Main {
         else{
             System.out.println (B);
         }
-        
-        // YOUR CODE GOES HERE
-        // Please take input and print output to standard input/output (stdin/stdout)
-        // DO NOT USE ARGUMENTS FOR INPUTS
-        // E.g. 'Scanner' for input & 'System.out' for output
-        
     }
 }
